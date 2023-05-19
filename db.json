@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": "10",
+      "text": "This feedback 1 is coming from my temporary backend"
+    },
+    {
+      "id": "2",
+      "rating": "7",
+      "text": "This feedback 2 is coming from my temporary backend"
+    },
+    {
+      "text": "This feedback 3 is coming from my temporary backend (edited)",
+      "rating": 3,
+      "id": "3"
+    }
+  ]
+}

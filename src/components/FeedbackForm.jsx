@@ -49,6 +49,8 @@ function FeedbackForm() {
         rating,
       };
 
+
+      // edit the feedback in submit button function
       if (feedbackEdit.edit === true) {
         updateFeedback(feedbackEdit.item.id, newFeedback);
       } else {
